@@ -15,9 +15,8 @@
   ],
   "profile": {
     "first_name": "jef",
-    "last_name":"Willems",
-    "username":"Jefwillems",
-    "birthday": 803224976000
-    
+    "last_name": "Willems",
+    "username": "Jefwillems",
+    "birthday": "803224976000"    
   }
 }
